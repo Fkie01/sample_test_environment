@@ -7,7 +7,7 @@ It allows you to test your project inside a controlled container with:
 
 -  2GB Memory limit  
 -  2 CPU cores  
--  Process limit (128 PIDs)  
+-  Process limit (512 PIDs)  
 -  No network access  
 -  Isolated execution environment  
 
